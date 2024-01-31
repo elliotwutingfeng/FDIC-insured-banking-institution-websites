@@ -1,4 +1,4 @@
-# FDIC-insured-banking-institution-websites
+# FDIC-insured banking institution websites
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
