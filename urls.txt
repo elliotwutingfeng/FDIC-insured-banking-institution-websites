@@ -148,6 +148,7 @@ fnbhope.com
 fnbiweb.com
 fnbnwa.com
 fnbwaseca.com
+fowlerstate.com
 freechecking.rocklandtrust.com
 froststatebank.com
 fsbmortgageloan.com
@@ -676,7 +677,6 @@ www.fnbq.com
 www.fnbrotan.com/m
 www.fnbwf.com
 www.focusbank.com
-www.fowlerstate.com
 www.fowlerstatebank.com
 www.franklinebranch.com
 www.franklinsavings.com
@@ -1039,6 +1039,7 @@ www.tcboregon.com
 www.tcbppp.com
 www.tcbssbmortgage.com
 www.tcbwa.com
+www.texascapital.com
 www.texashillcountrybank.com
 www.texasnational.bank
 www.thebankhaus.com
