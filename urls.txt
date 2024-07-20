@@ -203,7 +203,7 @@ newapp.kearnybank.com/OwLxLbN5B9Q-YhV/getting-started/landing-page
 northview.com
 olb.colonialsavings.com
 olui2.fspl2.ml.com
-online.Socorrobanking.com
+online.Socorobanking.com
 online.amerantbank.com/login
 online.hillsbank.com
 online.lakecentralbank.com
@@ -777,7 +777,7 @@ www.linkedin.com/company/citizens-bank-minnesota
 www.linkedin.com/company/farmers-trust-&-savings-bank
 www.linkedin.com/company/r-bank-texas
 www.linkedin.com/juniata-valley-bank
-www.llanonationalbank.com
+www.llanonational.bank
 www.lnbok.com
 www.lonestarbank.com
 www.lplguidedwealth.com/advisor/gregorystahl
@@ -866,7 +866,6 @@ www.myprovident.bank
 www.myprovident.net
 www.mysanb.com
 www.mysavingsdirect.com
-www.mysimplybank.com
 www.myunionstate.com
 www.mywealthcareonline.com/avidiabankhsa
 www.nationaladvisorstrust.com

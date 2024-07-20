@@ -157,7 +157,7 @@ online.amerantbank.com
 online.hillsbank.com
 online.lakecentralbank.com
 online.lendingclub.com
-online.socorrobanking.com
+online.socorobanking.com
 online.sunflowerbank.com
 onlineapps.ibanking-services.com
 onlyinark.com
@@ -692,7 +692,7 @@ www.lexusbank.com
 www.libertyvillesavingsbank.com
 www.limelightbank.com
 www.linkedin.com
-www.llanonationalbank.com
+www.llanonational.bank
 www.lnbok.com
 www.lonestarbank.com
 www.lplguidedwealth.com
@@ -787,7 +787,6 @@ www.mysecbank.mobi
 www.mysecbank.net
 www.mysecbank.org
 www.mysecbank.us
-www.mysimplybank.com
 www.myunionstate.com
 www.mywealthcareonline.com
 www.nationaladvisorstrust.com
