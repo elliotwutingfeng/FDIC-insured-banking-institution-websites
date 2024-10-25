@@ -505,7 +505,6 @@ www.finworth.com
 www.first-u-bank.com
 www.firstamb.net
 www.firstambank.com
-www.firstatebank.com
 www.firstbankofwyoming.com
 www.firstbankshelbyville.com
 www.firstcitizens-bank.com
@@ -725,6 +724,7 @@ www.mbtbank.org
 www.mccooknationalbank.com
 www.mckinneyvbank.com
 www.mcsbnhonline.com
+www.mebanking.com
 www.medquity.com
 www.meow.com
 www.mercantilebank.com

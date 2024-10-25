@@ -14,6 +14,7 @@ WWW.BELMONTBANKTRUST.COM
 WWW.BHBANK.NET
 WWW.CANNAFIRST.COM
 WWW.CHECKINGFINDER.COM
+WWW.CITIZENSBANKOFAMSTERDAM.COM
 WWW.CREDITONEBANK.COM/CD
 WWW.DEPOSITS.CREDITONEBANK.COM
 WWW.EASTCCBANK.NET
@@ -457,7 +458,6 @@ www.cifwithncb.coop
 www.circlevillebankingcenter.com
 www.cit.com
 www.citizensaccess.com
-www.citizensbankofamsterdam.com
 www.citizenscommunitybank.net
 www.citizensinsuranceagency.com
 www.citizenssb.biz
@@ -582,7 +582,6 @@ www.finworth.com
 www.first-u-bank.com
 www.firstamb.net
 www.firstambank.com
-www.firstatebank.com
 www.firstbankofwyoming.com
 www.firstbankshelbyville.com
 www.firstcitizens-bank.com
@@ -811,6 +810,7 @@ www.mbtbank.org
 www.mccooknationalbank.com
 www.mckinneyvbank.com
 www.mcsbnhonline.com
+www.mebanking.com
 www.medquity.com
 www.meow.com
 www.mercantilebank.com
