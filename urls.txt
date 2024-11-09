@@ -194,6 +194,7 @@ newapp.kearnybank.com/OwLxLbN5B9Q-YhV/getting-started/landing-page
 northview.com
 nsf.legacybank.com
 olb.colonialsavings.com
+olui2.fs.ml.com
 olui2.fspl2.ml.com
 online.amerantbank.com/login
 online.hillsbank.com
@@ -935,7 +936,6 @@ www.pb-ms.com
 www.pbandt.com
 www.pbandt.mobi
 www.pbbla.com
-www.pbknc.com
 www.pbmdirect.com
 www.pbmretail.com
 www.pbmwholesale.com
