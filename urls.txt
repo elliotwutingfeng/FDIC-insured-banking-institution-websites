@@ -6,6 +6,8 @@ MYCONNECTIONBANK.COM
 PEARLCITYBANK.COM
 PLUS.GOOGLE.COM/105312106676141361985/POSTS
 Platinum.greendot.com
+Socorrobanking.cbzsecure.com
+Socorrobankingbiz.cbzsecure.com
 Suncanyon.bank
 Suncanyon.myebanking.net
 Suncanyonbank.csifund.com
@@ -200,7 +202,6 @@ online.amerantbank.com/login
 online.hillsbank.com
 online.lakecentralbank.com
 online.lendingclub.com/lendingclubonline/uux.aspx?#/login
-online.socorrobanking.com
 online.sunflowerbank.com
 onlineapps.ibanking-services.com/olnas/OLNASServlet/StappsApp
 onlinebanking.earlhambank.com

@@ -146,7 +146,6 @@ online.amerantbank.com
 online.hillsbank.com
 online.lakecentralbank.com
 online.lendingclub.com
-online.socorrobanking.com
 online.sunflowerbank.com
 onlineapps.ibanking-services.com
 onlinebanking.earlhambank.com
@@ -187,6 +186,8 @@ secure.myvirtualbranch.com
 secureapplication.fnc.bank
 securedcardchoice.com
 secureftp.illinoisnationalbank.com
+socorrobanking.cbzsecure.com
+socorrobankingbiz.cbzsecure.com
 southerntrustbankonline.com
 southsidecb.com
 ssl.selectpayment.com
