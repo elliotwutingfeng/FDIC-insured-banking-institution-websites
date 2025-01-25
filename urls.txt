@@ -195,7 +195,6 @@ newaccounts.equitybank.com
 newapp.kearnybank.com/OwLxLbN5B9Q-YhV/getting-started/landing-page
 northview.com
 nsf.legacybank.com
-olb.colonialsavings.com
 olui2.fs.ml.com
 olui2.fspl2.ml.com
 online.amerantbank.com/login
@@ -204,7 +203,6 @@ online.lakecentralbank.com
 online.lendingclub.com/lendingclubonline/uux.aspx?#/login
 online.sunflowerbank.com
 onlineapps.ibanking-services.com/olnas/OLNASServlet/StappsApp
-onlinebanking.earlhambank.com
 onlyinark.com
 open.artisansbank.com
 open.horiconbank.com
@@ -626,9 +624,6 @@ www.floridacapitalbank.com/personal-online-mobile-banking
 www.floridacapitalbank.com/personal-savings-accounts
 www.floridacapitalbank.com/treasury-management-services
 www.fmbank.biz
-www.fmbanking.net
-www.fmbanking.org
-www.fmbanking.us
 www.fmbanktrust.biz
 www.fmbanktrust.com
 www.fmbanktrust.info
@@ -928,7 +923,6 @@ www.onlinebangor.org
 www.onlinebanking.bankofstockton.com
 www.oostburgbank.com
 www.open.thirdcoast.bank
-www.originatewebcenter.com/uopen/originate/showWelcome.do;jsessionid=3355CB0060C840054E6D7F9C45A63BAC
 www.ourbank.com
 www.ownersbank.com
 www.pacesetter-bank.com
@@ -988,6 +982,7 @@ www.sbaloansatlanta.com
 www.sbdanbury.com
 www.sbofa.com
 www.schwab.com
+www.secbnk.com
 www.secure.bankofutica.com
 www.secure.myvirtualbranch.com/GCB/1905/signin.aspx
 www.secure2.presidential.com
@@ -996,6 +991,7 @@ www.securitybankquanah.com
 www.securitybankstormlake.com
 www.selfcarehsa.com
 www.senb.com
+www.servicehomeloan.com
 www.sfgidirect.com
 www.simmesportstatebank.net
 www.skylinenationalbank.bank
