@@ -3,14 +3,10 @@ Cred.ai
 GREENPENNY.BANK
 M.RedRiverBank.net
 MYCONNECTIONBANK.COM
-PEARLCITYBANK.COM
 PLUS.GOOGLE.COM/105312106676141361985/POSTS
 Platinum.greendot.com
 Socorrobanking.cbzsecure.com
 Socorrobankingbiz.cbzsecure.com
-Suncanyon.bank
-Suncanyon.myebanking.net
-Suncanyonbank.csifund.com
 WWW.BANKONWSB.COM
 WWW.BELMONTBANKTRUST.COM
 WWW.BHBANK.NET
@@ -107,6 +103,7 @@ cibng.ibanking-services.com/cib/cebmainservlet/login?fiorg=992&fifid=071006468
 citizensmn.wordpress.com
 clarendonhillsbank.com
 cnbpoteau.bank
+commencementbank.com
 communityadvantage.com
 communitybankws.com
 current.com
@@ -163,8 +160,8 @@ illinoisnationalbank.btbanking.com/onlineserv/CM
 illinoisnationalbank.com
 inb.com
 inbmobile.com
-info.floridacapitalbank.com/lpsummer_biz_moneymarket
-info.floridacapitalbank.com/lpsummer_cd_special
+info.floridacapitalbank.com/lp_bizprefermma_jan
+info.floridacapitalbank.com/lpwinter_cd_special-jan
 insouth.com
 instagram.com/mypfbbank
 intellix.capitalonebank.com
@@ -180,6 +177,7 @@ markhambank.com
 mchenrybank.com
 midwestbank.cfc.rapidcapture.com
 mobile.horiconbank.com
+montecitobank.com
 morrisbl.net
 mrp1.cunetbranch.com/swk/mrp_8318/app.aspx?appid=11001
 mundeleinbank.com
@@ -197,10 +195,12 @@ northview.com
 nsf.legacybank.com
 olui2.fs.ml.com
 olui2.fspl2.ml.com
+oneplace.bank
 online.amerantbank.com/login
 online.hillsbank.com
 online.lakecentralbank.com
 online.lendingclub.com/lendingclubonline/uux.aspx?#/login
+online.myprovident.com
 online.sunflowerbank.com
 onlineapps.ibanking-services.com/olnas/OLNASServlet/StappsApp
 onlyinark.com
@@ -235,16 +235,18 @@ secure.bankofcashton.bank
 secure.community1st.com/community1stonlinebanking/uux.aspx#/login
 secure.myvirtualbranch.com
 secure.myvirtualbranch.com/BankNewport/SignIn.aspx
-secureapplication.fnc.bank/applications
 securedcardchoice.com
 secureftp.illinoisnationalbank.com
 southerntrustbankonline.com
 southsidecb.com
-ssl.selectpayment.com
+ss.selectpayment.com
 sso-sco2.fiservsco.com
 start.integritybank.com
 stoneham.bank
 stonehambank.bank
+suncanyon.bank
+suncanyon.myebanking.net
+suncanyonbank.csifund.com
 sunflower.olbanking.com
 sunflower.olbanking.com/smallbusiness
 tecfedbank.com
@@ -303,11 +305,11 @@ www.Sawyersavings.com
 www.Sunflowerbank.com
 www.TotalBank.com
 www.Totaldirectbank.com
-www.WhyCommunityMatters.com
 www.ablebanking.com
 www.abt-nc.com
 www.acommunitybank.com
 www.advisersbank.com
+www.advocatecapital.com
 www.affinitybank.com
 www.affirm.com
 www.afnb.com
@@ -385,6 +387,7 @@ www.bankofoklahoma.com
 www.bankofplentywood.com
 www.bankofpowell.com
 www.bankofredlodge.com
+www.bankofripley.com
 www.bankofsanangelo.com
 www.bankofsocialcircle.com
 www.bankofstcroix.com
@@ -433,6 +436,7 @@ www.capecodcooperativebank.com
 www.capitalbank.com
 www.carterbank.com
 www.cartercountybank.com
+www.cbbcbank.com
 www.cbibt.bank
 www.cbiinv.com
 www.cbtcares.com
@@ -494,6 +498,7 @@ www.collegesavings.com
 www.comenity.com
 www.comenity.net
 www.commercebankwyoming.com
+www.commercefinancialadvisors.com
 www.commercehealthcare.com
 www.commercetrustcompany.com
 www.commercialbank-stl.com
@@ -503,7 +508,6 @@ www.community1st.bank
 www.communitybankmarshall.com
 www.communitybankofsmithcounty.com
 www.communitynationalbank.net
-www.corefirstbank.com
 www.countonccb.com
 www.creditkarma.com
 www.creditstrong.com
@@ -584,6 +588,7 @@ www.finworth.com
 www.first-u-bank.com
 www.firstamb.net
 www.firstambank.com
+www.firstatebank.com
 www.firstbankofwyoming.com
 www.firstbankshelbyville.com
 www.firstcitizens-bank.com
@@ -603,6 +608,8 @@ www.firstottawa.com
 www.firstpekinsavings.com
 www.firstpresidio.com
 www.firstsecurityhelena.com
+www.firststatebankoffountain.com
+www.firststatebankoffountain.net
 www.firstsullivan.com
 www.firstunited.net
 www.firstunitedfinancialservices.com
@@ -695,7 +702,6 @@ www.gofsb.com
 www.goldenbeltbank.com
 www.goldenpacificbank.com
 www.goldenvalleybank.com
-www.gorhamstatebank.com
 www.gpsbank.net
 www.greenbeltbank.bank
 www.greenvillenationalbank.com
@@ -773,7 +779,6 @@ www.leadbankonline.com
 www.leadbankpay.com
 www.leapfrogmortgage.com
 www.legacy.bank
-www.lexusbank.com
 www.libertyvillesavingsbank.com
 www.limelightbank.com
 www.linkedin.com/coastalheritagebank
@@ -785,6 +790,7 @@ www.linkedin.com/company/r-bank-texas
 www.linkedin.com/juniata-valley-bank
 www.llanonational.bank
 www.lnbok.com
+www.loadpay.com
 www.lonestarbank.com
 www.lplguidedwealth.com/advisor/gregorystahl
 www.lubbocknational.com
@@ -805,12 +811,13 @@ www.marinebank.bank
 www.marinebk.com
 www.marioncountysavings.com
 www.marlboroughsavings.com
-www.maxwellstatebank.com
+www.maxwellstate.com
 www.mb.bank
 www.mbtadvisors.com
 www.mbtbank.com
 www.mbtbank.net
 www.mbtbank.org
+www.mbtmortgage.com
 www.mccooknationalbank.com
 www.mckinneyvbank.com
 www.mcsbnhonline.com
@@ -820,6 +827,7 @@ www.meow.com
 www.mercantilebank.com
 www.merchantsbankfairview.com
 www.merchantsbankmapleton.com
+www.merchantsbankofindiana.com
 www.merchantsbanktowner.com
 www.merrilledge.com
 www.meusbank.com
@@ -832,7 +840,6 @@ www.milfordfederal.biz
 www.milfordfederal.info
 www.milfordfederal.net
 www.milfordfederal.org
-www.milli.bank
 www.mitchellbank.com
 www.ml.com
 www.mn-bank.com
@@ -841,7 +848,7 @@ www.mnb1.com
 www.monesty.bank
 www.monsonsavings.com
 www.montbank.com
-www.montecitosba.com
+www.montecitobankandtrust.com
 www.mortgage.thirdcoast.bank
 www.mortgageboc.com
 www.mortgagesmadesimple.com
@@ -852,7 +859,6 @@ www.mph.bank
 www.msbna.com
 www.mutualbancorp.com
 www.mutualfederal.com
-www.mutualsavingsindiana.com
 www.mutualwave.com
 www.myaffinitybank.com
 www.myaffinitybank.net
@@ -870,7 +876,6 @@ www.myhomebank.com
 www.myhomebank.csinufund.com
 www.mymerrill.com
 www.mymonesty.com
-www.mymsb.csinufund.com
 www.myperrybank.com
 www.myprovident.bank
 www.myprovident.net
@@ -903,6 +908,7 @@ www.norcalbank.com
 www.normanvbank.com
 www.northernbankdirect.com
 www.northsidebankandtrust.com
+www.northwestbank.com
 www.northwestmortgagecenter.com
 www.novo.co
 www.nsbank.com
@@ -910,6 +916,7 @@ www.nsbt.com
 www.nscbank.com
 www.ntnb.net
 www.nvboh.bank
+www.oakwoodbank.com
 www.oelweinbank.com
 www.offers.pnc.com
 www.okfidelitybank.com
@@ -969,11 +976,12 @@ www.relybank.com
 www.relyccx.com
 www.remotedeposit.premierbanks.com
 www.retirementequitysolutions.com
-www.rfstatebankonline2.com
 www.ridgeviewbank.bank
 www.rightreasons.com
 www.risingbank.com
 www.riverbankmobile.mobi
+www.rootriverstatebank.net
+www.rrsbchatfield.com
 www.rsb.bank
 www.rvrbankchecking.com
 www.salemfivedirect.com
@@ -1040,6 +1048,7 @@ www.thefmbank.bank
 www.thefmbank.com
 www.thefmis.com
 www.themerrimack.com
+www.thepinnaclespotlight.com
 www.thirdcoastcommercialcap.com
 www.timbrfinancial.com
 www.titansbanking.com
@@ -1079,7 +1088,6 @@ www.v.bank
 www.vacationpropertyloans.com
 www.valleybankglacier.com
 www.valleydirect.com
-www.valleyoaksbank.com
 www.vantagechecking.com
 www.varsity.bank
 www.vbank.com
@@ -1094,8 +1102,6 @@ www.viobank.com
 www.virtualbank.com
 www.visionarycorporatecard.com
 www.vnbweb.bz
-www.vsb.bank
-www.wakeforestfederal.com
 www.waldostatebank.com
 www.waldostatebank.net
 www.wash1.com
