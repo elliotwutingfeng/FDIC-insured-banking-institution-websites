@@ -268,7 +268,6 @@ www.bancorpsouth.com
 www.bangorsavingsbank.com
 www.bangorsavingsbank.net
 www.bangorsavingsbank.org
-www.bank-all-day.com
 www.bank-northwest.com
 www.bank5connect.com
 www.bankanbmrtg.com
@@ -471,7 +470,6 @@ www.eastccbank.net
 www.eatonnational.com
 www.ebangorsavings.com
 www.ecdmarket.com
-www.ecorponline.com
 www.edeposit.presidential.com
 www.edwardsvillebank.com
 www.efirstunitedbank.biz
@@ -1060,9 +1058,7 @@ www.wsbsimplerewardschecking.com
 www.wtsb.com
 www.wyoming-bank.com
 www.yourbenefitaccount.com
-www.yourbetterstate.com
 www.yourconstructionloan.com
-www.yourdeposit.com
 www.yourfsb.bank
 www.youtube.com
 www.zifi.com
