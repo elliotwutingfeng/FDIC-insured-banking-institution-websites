@@ -955,6 +955,7 @@ www.switchtolegacy.com
 www.synchrony.com
 www.synchronybank.com
 www.t-mobilemoney.com
+www.talbotbank.com
 www.tallahasseenationalbank.com
 www.taylorbank.mortgagewebcenter.com
 www.tbaz.com
@@ -1013,6 +1014,7 @@ www.utb.com
 www.v.bank
 www.vacationpropertyloans.com
 www.valleybankglacier.com
+www.valleybanks.com
 www.valleydirect.com
 www.vantagechecking.com
 www.varsity.bank
