@@ -190,7 +190,7 @@ socorrobanking.cbzsecure.com
 socorrobankingbiz.cbzsecure.com
 southerntrustbankonline.com
 southsidecb.com
-ss.selectpayment.com
+ssl.selectpayment.com
 sso-sco2.fiservsco.com
 start.integritybank.com
 stoneham.bank
@@ -967,7 +967,7 @@ www.texascapital.com
 www.texashillcountrybank.com
 www.texasnational.bank
 www.thebankhaus.com
-www.thebankna.bank
+www.thebankna.net
 www.thebankofaustin.com
 www.thebankofsa.com
 www.thecfgbank.com

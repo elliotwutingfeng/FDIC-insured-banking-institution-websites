@@ -12,7 +12,6 @@ WWW.BELMONTBANKTRUST.COM
 WWW.BHBANK.NET
 WWW.CANNAFIRST.COM
 WWW.CHECKINGFINDER.COM
-WWW.CITIZENSBANKOFAMSTERDAM.COM
 WWW.CREDITONEBANK.COM/CD
 WWW.DEPOSITS.CREDITONEBANK.COM
 WWW.EASTCCBANK.NET
@@ -240,7 +239,7 @@ secureftp.illinoisnationalbank.com
 securelogin.synchronybank.com
 southerntrustbankonline.com
 southsidecb.com
-ss.selectpayment.com
+ssl.selectpayment.com
 sso-sco2.fiservsco.com
 start.integritybank.com
 stoneham.bank
@@ -464,6 +463,7 @@ www.cifwithncb.coop
 www.circlevillebankingcenter.com
 www.cit.com
 www.citizensaccess.com
+www.citizensbankofamsterdam.com
 www.citizensbankweb.com
 www.citizenscommunitybank.net
 www.citizensinsuranceagency.com
@@ -1039,7 +1039,7 @@ www.texascapital.com
 www.texashillcountrybank.com
 www.texasnational.bank
 www.thebankhaus.com
-www.thebankna.bank
+www.thebankna.net
 www.thebankofaustin.com
 www.thebankofsa.com
 www.thecfgbank.com
