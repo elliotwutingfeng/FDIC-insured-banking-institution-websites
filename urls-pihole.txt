@@ -1,8 +1,7 @@
-aaa.discoverbank.com
-aaii.discoverbank.com
 about.bankofamerica.com
 accounts.svbt.com
 addisonbank.com
+advantage.fvcbank.com
 advice.bankoftennessee.com
 amexsavings.com
 apply.huntington.com
@@ -11,7 +10,6 @@ applynow.banknh.com
 applynow.hillsbank.com
 aurorabankandtrust.com
 b091205869.account-open.online-banking-services.com
-bank.discover.com
 bankalgonquin.com
 bankatcbt.com
 bankcentral.net
@@ -463,8 +461,6 @@ www.deposits.creditonebank.com
 www.diamondbanking.com
 www.dirttrack.bank
 www.discountsolo401k.com
-www.discover.com
-www.discoverbank.com
 www.dollarsavingsdirect.com
 www.dubuquebank.com
 www.e-bangor.com
@@ -780,7 +776,6 @@ www.myaffinitybank.net
 www.myaffinitybankhelp.com
 www.mybsb.com
 www.mycbstl.com
-www.mydiscoverbank.com
 www.myebanc.com
 www.myfcbusa.com
 www.myfccb.com
