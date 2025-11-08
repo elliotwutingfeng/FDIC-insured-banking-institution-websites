@@ -104,9 +104,9 @@ deerfieldbank.com
 desplainesbank.com
 digital.horiconbank.com
 digital.kindmoney.com
-digitalbank.amerantbank.com
 direct.comenity.com
 direct.imagedepositgateway.com
+direct.imagedepositgateway.com/MultiFactorAuthenticationWebClient/Default.aspx?ReturnUrl=2fMerchantCaptureWebClient2fDefault.aspx3finstitution3d0992&institution=0992
 downersgrovebank.com
 drivethru.plus
 edeposit.centralbancompany.com
@@ -118,6 +118,7 @@ facebook.com/centurybankandtrustmilledgeville
 facebook.com/mypfbbank
 facile.nymbus.com
 famf.bank
+fbfinancialonline.com
 fcbheartland.csinufund.com
 files.inbftp.com
 firstfedevansville.mymortgage-online.com
@@ -146,7 +147,6 @@ hanoverparkbank.com
 hecommunitybank.com
 heightsbank.com
 hfgtrust.portal.tamaracinc.com
-horiconbank.expressbanking.net/2/#/search?cie=116
 hydeparkbank.net
 ibankcanton.com
 ichooseinb.com
@@ -154,8 +154,6 @@ illinoisnationalbank.btbanking.com/onlineserv/CM
 illinoisnationalbank.com
 inb.com
 inbmobile.com
-info.floridacapitalbank.com/lp_bizprefermma_jan
-info.floridacapitalbank.com/lpwinter_cd_special-jan
 insouth.com
 instagram.com/mypfbbank
 ipabcprod.fiservsco.com/WebCapture/Web
@@ -188,7 +186,6 @@ nsf.legacybank.com
 olui2.fs.ml.com
 olui2.fspl2.ml.com
 oneplace.bank
-online.amerantbank.com/login
 online.capeandcoastbank.com
 online.hillsbank.com
 online.lakecentralbank.com
@@ -208,15 +205,14 @@ ou.midfirst.com
 palatinebank.com
 panaceafinancial.com
 pataskalabank.com
-pbtc.infinity.com/intranet
 peoplesbankpa.com
+private-clients.floridacapitalbank.com
 privatebank.bankofamerica.com
 privatevbank.com
 promo.bankofamerica.com
 promotions.bankofamerica.com
 provisobank.com
 psbohio.com
-remotedeposit.amerantbank.com
 retailonline.fiservapps.com
 rockfordbank.com
 roger.bank
@@ -229,6 +225,8 @@ secure.bankofcashton.bank
 secure.community1st.com/community1stonlinebanking/uux.aspx#/login
 secure.myvirtualbranch.com
 secure.myvirtualbranch.com/BankNewport/SignIn.aspx
+secure4.billerweb.com/cib/JustPayIt/index.html?unitCode=CIBC
+secure4.billerweb.com/cib/index.html?unitCode=CIBC
 securedcardchoice.com
 secureftp.illinoisnationalbank.com
 securelogin.synchronybank.com
@@ -287,12 +285,12 @@ www.CloudBank247.com
 www.CommunityBT.bank
 www.FFB.bank
 www.Firstnational1870.com
-www.Insurbanc.com
 www.Kasasa.com
 www.LegacyWinWin.com
 www.NMPinnbank.com
 www.NSBmobile.com
 www.NSBonline.com
+www.NationalAdvisors.com
 www.Newtownsavings.com
 www.Newtownsavingsbank.com
 www.PinnbankAZ.com
@@ -327,6 +325,7 @@ www.appliedbank.com
 www.apply.solerabank.com
 www.arizbank.com
 www.associationbankers.com
+www.auth.gws.seic.com/usmfaservices/TSULogin.jsp?APPNAME=2&CLIENT=1&TYPE=33554433&REALMOID=06-0008d0c4-79ba-1cf1-b9b3-4452ac1200f2&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=$SM$p05_ecx_us175100_cibc2eecx2eseic2ecom&TARGET=$SM$https3a2f2fcibc2eecx2eseic2e
 www.avana.bank
 www.avidiahealth.com
 www.axosbank.com
@@ -403,6 +402,7 @@ www.bankohiocounty.com
 www.bankonbuffalo.bank
 www.bankoncnb.com
 www.bankpensacola.com
+www.bankri.com
 www.banksanjuans.com
 www.bankwaverly.bank
 www.bankwelldirect.com
@@ -412,6 +412,7 @@ www.baskbank.com
 www.bcsb.com
 www.bealbank.com
 www.believebank.com
+www.berkshirebank.com
 www.betterbybeal.com
 www.bhbt.com
 www.bnbank.com
@@ -426,6 +427,7 @@ www.briodirectbanking.com
 www.brokerboc.com
 www.brokerboc.net
 www.brookcsb.com
+www.brooklinebank.com
 www.brunswickbank.com
 www.brushstatebank.com
 www.buffalofed.bank
@@ -456,12 +458,12 @@ www.cfsbky.com
 www.chase.com
 www.checkfinder.com
 www.checkingfinder.com
-www.cibcbankusa.akouba.io.com
 www.cierabank.com
 www.cifwithncb.coop
 www.circlevillebankingcenter.com
 www.cit.com
 www.citizensaccess.com
+www.citizensbankofamsterdam.com
 www.citizensbankweb.com
 www.citizensinsuranceagency.com
 www.citizenssb.biz
@@ -711,6 +713,7 @@ www.goldenpacificbank.com
 www.goldenvalleybank.com
 www.gpsbank.net
 www.greenbeltbank.bank
+www.greencheckverified.com
 www.greendot.com/platinum
 www.greenvillenationalbank.com
 www.grundybank.com
@@ -749,6 +752,7 @@ www.instagram.com/horiconbank
 www.instagram.com/kensington_bank
 www.instagram.com/midnatbank
 www.instagram.com/rbanktexas
+www.insurbanc.com
 www.intercitystatebank.com
 www.intrafinetworkdeposits.com
 www.ira123.com
@@ -837,6 +841,7 @@ www.merchantsbankmapleton.com
 www.merchantsbankofindiana.com
 www.merchantsbanktowner.com
 www.merrilledge.com
+www.meusbank.com
 www.midfirstdirect.com
 www.midfirstprivatebank.com
 www.midland.bank
@@ -884,7 +889,6 @@ www.myprovident.net
 www.mysavingsdirect.com
 www.myunionstate.com
 www.mywealthcareonline.com/avidiabankhsa
-www.nationaladvisorstrust.com
 www.nationalbanktexas.com
 www.nbarizona.com
 www.nbbankfrontier.com
@@ -920,6 +924,7 @@ www.okfidelitybank.com
 www.olb-ebanking.com
 www.olb-ebanking.com/091205869/login
 www.old-ebanking.com/103103985/login
+www.oldpoint.com
 www.onlinebangor.biz
 www.onlinebangor.com
 www.onlinebangor.net
@@ -943,6 +948,7 @@ www.pbmwholesale.com
 www.pbofca.com
 www.pbratespecials.com
 www.pcbankonline.com
+www.pcsb.com
 www.peak.bank/peak-bank
 www.peoplesbank-tn.com
 www.peoplesbankba.com
@@ -1008,6 +1014,7 @@ www.sfgidirect.com
 www.simmesportstatebank.net
 www.skylinenational.bank
 www.sloveniansavingsandloan.com
+www.snb.bank
 www.snbgroom.com
 www.snbomaha.com
 www.sofi.com/banking
@@ -1034,7 +1041,6 @@ www.svbconnect.com
 www.switchtolegacy.com
 www.synchrony.com/banking
 www.synchronybank.com
-www.t-mobilemoney.com/en/home.html
 www.talbotbank.com
 www.tallahasseenationalbank.com
 www.taylorbank.mortgagewebcenter.com
@@ -1055,6 +1061,7 @@ www.thecornerstonebank.net
 www.theexchangestatebank.com
 www.thefmbank.com
 www.thefmis.com
+www.theguarantybank.com
 www.themerrimack.com
 www.thepinnaclespotlight.com
 www.thirdcoastcommercialcap.com
@@ -1153,6 +1160,7 @@ www.yourconstructionloan.com
 www.yourfsb.bank
 www.youtube.com/channel/UC60jgRmYT385uZSFa-9kmlg/featured
 www.youtube.com/eastwisconsinsavingsbank
+www.youtube.com/horiconbank.
 www.zifi.com
 www.zionsbank.com
 www.zynlobank.com
