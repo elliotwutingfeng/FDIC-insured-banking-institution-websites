@@ -269,7 +269,6 @@ web6.secureinternetbank.com
 web9.secureinternetbank.com/PBI_PBI1151/Login/072414239
 web9.secureinternetbank.com/ebc_ebc1151/Login/072414239
 webcap03.fiservmw.net/WebCaptureWeb/MerchantCapture.do?appId=EBI1450&FID=073910114
-westfieldbank-web.oflows.net/oao/?product
 wheelingbank.com
 willowbrookbank.com
 wintrustindiana.com
@@ -432,7 +431,6 @@ www.brunswickbank.com
 www.brushstatebank.com
 www.buffalofed.bank
 www.bullochfirst.com
-www.buyyourbookofbusiness.com
 www.cachemortgage.com
 www.calbanktrust.com
 www.capitalbank.com
@@ -649,7 +647,6 @@ www.fnb-la.org
 www.fnb-la.us
 www.fnb-mcgregor.com
 www.fnbccfl.com
-www.fnbchisholm.com
 www.fnbec.bank
 www.fnbezbanking.com
 www.fnbfosston.com
@@ -1138,8 +1135,6 @@ www.westernalliancebancorporation.com/bridge-bank
 www.westernalliancebancorporation.com/first-independent-bank
 www.westernalliancebancorporation.com/torrey-pines-bank
 www.westernsecuritybank.com
-www.westfieldatwork.com
-www.westfieldinsurance.com
 www.westtnbank.com
 www.wf.com
 www.wfsmobile.com
