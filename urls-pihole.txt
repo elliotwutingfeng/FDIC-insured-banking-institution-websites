@@ -78,7 +78,6 @@ forms.fivision.com
 fowlerstate.com
 freechecking.rocklandtrust.com
 fsbmortgageloan.com
-fsbwise.com
 genevabt.com
 glenellynbank.com
 go.btcbank.bank
@@ -178,8 +177,8 @@ secure4.billerweb.com
 securedcardchoice.com
 secureftp.illinoisnationalbank.com
 securelogin.synchronybank.com
+socorrbankingbiz.cbzsecure.com
 socorrobanking.cbzsecure.com
-socorrobankingbiz.cbzsecure.com
 southerntrustbankonline.com
 southsidecb.com
 ssl.selectpayment.com
@@ -274,6 +273,7 @@ www.bankboc.info
 www.bankboc.mobi
 www.bankboc.net
 www.bankbv.com
+www.bankcitizens.bank
 www.bankerslender.bank
 www.bankevanston.com
 www.bankfbt.bank
@@ -574,7 +574,6 @@ www.fnbrotan.com
 www.fnbshawnee.com
 www.fnbshawnee.net
 www.fnbshawnee.org
-www.fnbwf.com
 www.focusbank.com
 www.fortunabank.com
 www.fowlerstatebank.com
@@ -911,7 +910,6 @@ www.salemfivedirect.com
 www.sandyspringbank.com
 www.santanderbank.com
 www.sawyersavings.com
-www.sbaloansatlanta.com
 www.sbherscher.com
 www.sbofa.com
 www.sbsh-ks.com
