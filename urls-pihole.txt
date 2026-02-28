@@ -226,7 +226,6 @@ www.agilebanking.com
 www.agility.bank
 www.agreatbank.com
 www.aionfi.com
-www.alostarbank.com
 www.alwaysflorence.com
 www.amblersavingsbank.com
 www.amegybank.com
@@ -248,7 +247,6 @@ www.axosbank.com
 www.axosfs.com
 www.badass.bank
 www.bancmac.com
-www.bancorpsouth.com
 www.bangorsavingsbank.com
 www.bangorsavingsbank.net
 www.bangorsavingsbank.org
