@@ -497,7 +497,6 @@ www.firstatebank.com
 www.firstbankofwyoming.com
 www.firstbankshelbyville.com
 www.firstbanktexas.com
-www.firstcitizens-bank.com
 www.firstcommercebankonline.com
 www.firstfeddelta.com
 www.firstfederalleasing.com
@@ -961,12 +960,9 @@ www.tcboregon.com
 www.tcbssb.com
 www.tcbwa.com
 www.texascapital.com
-www.texashillcountrybank.com
 www.texasnational.bank
 www.thebankhaus.com
 www.thebankna.bank
-www.thebankofaustin.com
-www.thebankofsa.com
 www.thecfgbank.com
 www.thecornerstonebank.net
 www.theexchangestatebank.com
