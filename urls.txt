@@ -5,8 +5,8 @@ M.RedRiverBank.net
 MYCONNECTIONBANK.COM
 PLUS.GOOGLE.COM/105312106676141361985/POSTS
 Platinum.greendot.com
-SocorrbankingBIZ.CBZsecure.com
-Socorrobanking.CBZsecure.com
+Socorrobanking.CBZSecure.com
+SocorrobankingBIZ.CBZSecure.com
 WWW.BANKOFODESSA.MSIRD.COM
 WWW.BANKONWSB.COM
 WWW.BELMONTBANKTRUST.COM
@@ -169,6 +169,7 @@ mymortgage.sunflowerbank.com
 nebmn.com
 newaccounts.brilliant.bank
 newaccounts.equitybank.com
+newaccounts.legendsbk.com/jvy-5eF018ANPzN
 northview.com
 nsf.legacybank.com
 olui2.fs.ml.com
@@ -483,8 +484,6 @@ www.commercefinancialadvisors.com
 www.commercehealthcare.com
 www.commercetrustcompany.com
 www.commstatebank.com
-www.community1bank.com
-www.community1st.bank
 www.communitybankmarshall.com
 www.communitybankofsmithcounty.com
 www.creditkarma.com
@@ -558,9 +557,7 @@ www.fcbwf.com
 www.fcnbanks.com
 www.fcnbanks.net
 www.fcnbanks.org
-www.ff-inc.com
 www.ffbt.com
-www.ffibank.com
 www.ffl.net
 www.ffsb.com
 www.fhnb.com
@@ -580,11 +577,6 @@ www.firstfeddelta.com
 www.firstfederalleasing.com
 www.firstfedevansville.net
 www.firstfedwakeeney.com
-www.firstfloridaintegritybank.com
-www.firstfoundation.net
-www.firstfoundationadvisors.com
-www.firstfoundationbank.com
-www.firstfoundationinc.com
 www.firstoklahomabank.com
 www.firstottawa.com
 www.firstpekinsavings.com
@@ -871,7 +863,6 @@ www.nationalbanktexas.com
 www.nbarizona.com
 www.nbbankfrontier.com
 www.ncb-ebanc.com
-www.netteller.com/mcb
 www.newmarketbank.com
 www.newrichlandbank.com
 www.newrichlandstatebank.com
@@ -920,7 +911,6 @@ www.partnersbankonline.com
 www.pb-ms.com
 www.pbandt.com
 www.pbandt.mobi
-www.pbbla.com
 www.pbmdirect.com
 www.pbmretail.com
 www.pbmwholesale.com
