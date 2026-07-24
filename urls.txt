@@ -120,7 +120,6 @@ fmbankminnesota.com
 fnbiweb.com
 fnbnwa.com
 forms.fivision.com/bankofeaston/oa/default.aspx
-fowlerstate.com
 freechecking.rocklandtrust.com
 fsbmortgageloan.com
 genevabt.com
@@ -168,8 +167,6 @@ mycdh.optum.com
 mylandloan.com
 mymortgage.sunflowerbank.com
 nebmn.com
-newaccounts.brilliant.bank
-newaccounts.equitybank.com
 newaccounts.legendsbk.com/jvy-5eF018ANPzN
 northview.com
 nsf.legacybank.com
@@ -331,7 +328,6 @@ www.bankboc.info
 www.bankboc.mobi
 www.bankboc.net
 www.bankbv.com
-www.bankcitizens.bank
 www.bankerslender.bank
 www.bankevanston.com
 www.bankfbt.bank
@@ -449,6 +445,7 @@ www.cit.com
 www.citizensaccess.com
 www.citizensbankofamsterdam.com
 www.citizensbankweb.com
+www.citizensbt.com
 www.citizensinsuranceagency.com
 www.citizenssb.biz
 www.citizenssb.info
@@ -585,7 +582,6 @@ www.firstfeddelta.com
 www.firstfederalleasing.com
 www.firstfedevansville.net
 www.firstfedwakeeney.com
-www.firstmissouri.bank
 www.firstmissouristatebank.com
 www.firstoklahomabank.com
 www.firstottawa.com
@@ -648,6 +644,7 @@ www.fnbrotan.com/m
 www.focusbank.com
 www.forefrontelite.com
 www.fowlerstatebank.com
+www.fowlertate.com
 www.franklinebranch.com
 www.franklinsavings.com
 www.freekick.bank
@@ -743,6 +740,7 @@ www.ivybank.com
 www.jbt.bank
 www.jeniusbank.com
 www.join.solerabank.com
+www.jointhebank.regions.com
 www.jonesbank.net
 www.jonesbank.org
 www.jpmorgan.chase.com
@@ -873,7 +871,6 @@ www.myprovident.net
 www.mysavingsdirect.com
 www.myunionstate.com
 www.mywealthcareonline.com/avidiabankhsa
-www.nationalbanktexas.com
 www.nbarizona.com
 www.nbbankfrontier.com
 www.ncb-ebanc.com
@@ -995,7 +992,6 @@ www.securitybankquanah.com
 www.securitybankstormlake.com
 www.selfcarehsa.com
 www.senb.com
-www.servicehomeloan.com
 www.sfgidirect.com
 www.simmesportstatebank.net
 www.skylinenational.bank
@@ -1042,7 +1038,7 @@ www.tcbwa.com
 www.texascapital.com
 www.texasnational.bank
 www.thebankhaus.com
-www.thebankna.bank
+www.thebankna.com
 www.thecfgbank.com
 www.thecornerstonebank.net
 www.theexchangestatebank.com
@@ -1083,7 +1079,6 @@ www.upgrade.com
 www.urfirst.com
 www.ursbank.com
 www.us.hsbc.com
-www.usavingsbank.com
 www.ustrust.com
 www.utahcommunitybank.com
 www.utb.com
@@ -1124,7 +1119,6 @@ www.wf.com
 www.wfsmobile.com
 www.wheatland.bank
 www.wilcobank.com
-www.williampenn.bank
 www.windorstatebank.com
 www.windwardbank.com
 www.wintrustflorida.com
@@ -1147,4 +1141,3 @@ xpress.epaysol.com
 xpress.usremotedeposit.com/ct/?bid=112098110098
 yacenter.org
 yellowstone.bank
-young.bank
