@@ -30,6 +30,7 @@ bankriverside.com
 bankshorewood.com
 banterra.myebanking.net
 benefits.ml.com
+bettermoneyhabits.bankofamerica.com
 bloomingdalebank.com
 botwealthmgmt.com
 brightonparkbank.com
@@ -155,7 +156,6 @@ plus.google.com
 private-clients.floridacapitalbank.com
 privatebank.bankofamerica.com
 privatevbank.com
-promo.bankofamerica.com
 promotions.bankofamerica.com
 provisobank.com
 psbohio.com
@@ -726,7 +726,6 @@ www.marinebk.com
 www.marioncountysavings.com
 www.marlboroughsavings.com
 www.maxwellstate.com
-www.mb.bank
 www.mbtadvisors.com
 www.mbtbank.com
 www.mbtbank.net
