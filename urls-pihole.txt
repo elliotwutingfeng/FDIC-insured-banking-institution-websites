@@ -222,7 +222,6 @@ www.accordia.bank
 www.acommunitybank.com
 www.advisersbank.com
 www.advocatecapital.com
-www.affinitybank.com
 www.affirm.com
 www.afnb.com
 www.agilebanking.com
@@ -528,7 +527,6 @@ www.firstunitedfinancialservices.com
 www.firstunitedfinancialservices.net
 www.firstunitedfinancialservices.org
 www.firstwesternfederal.com
-www.fitnessbank.fit
 www.fkc.bank
 www.flagshipcb.com
 www.flagstar.com
@@ -594,7 +592,6 @@ www.fsb-purdy.com
 www.fsb1908.com
 www.fsbcp.com
 www.fsbctx.com
-www.fsbfountain.com
 www.fsbgraham.com
 www.fsbhillsboro.com
 www.fsbme.com
@@ -692,7 +689,6 @@ www.lcnb.mobi
 www.lcnb.org
 www.lcnbcorp.com
 www.lcnbyourhometownlender.com
-www.leapfrogmortgage.com
 www.legacy.bank
 www.legacywinwin.com
 www.legend-bank.com
@@ -774,9 +770,6 @@ www.mph.bank
 www.msbna.com
 www.mutualbancorp.com
 www.mutualfederal.com
-www.myaffinitybank.com
-www.myaffinitybank.net
-www.myaffinitybankhelp.com
 www.mybsb.com
 www.myebanc.com
 www.myfcbusa.com
@@ -904,7 +897,6 @@ www.ridgeviewbank.bank
 www.rightreasons.com
 www.risingbank.com
 www.riverbankmobile.mobi
-www.rrsbchatfield.com
 www.rsb.bank
 www.rvrbankchecking.com
 www.salemfivedirect.com
