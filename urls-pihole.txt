@@ -212,6 +212,7 @@ willowbrookbank.com
 wintrustindiana.com
 wooddalebank.com
 www,.ucbanking.net
+www,citizensbankofamsterdam.com
 www,qwickrate.com
 www.1cbank.com
 www.1st-fed.com
@@ -387,7 +388,6 @@ www.cifwithncb.coop
 www.circlevillebankingcenter.com
 www.cit.com
 www.citizensaccess.com
-www.citizensbankofamsterdam.com
 www.citizensbankweb.com
 www.citizensbt.com
 www.citizensinsuranceagency.com
@@ -595,6 +595,7 @@ www.fsbgraham.com
 www.fsbhillsboro.com
 www.fsbme.com
 www.fsbmsla.com
+www.fsbnv.com
 www.fsbspearman.com
 www.fsbstjoseph.com
 www.fsbwa.com
